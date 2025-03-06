@@ -224,7 +224,7 @@
     margin-bottom: 100px;
 }
 
-.about__text{
+.about__text {
     font-size: 20px;
     margin-bottom: 24px;
 }
@@ -270,9 +270,7 @@
 }
 /* FOOTER */
 
-/* 
-    Дополнительные классы
-*/
+/* Дополнительные классы */
 
 .overlay {
     position: absolute;
