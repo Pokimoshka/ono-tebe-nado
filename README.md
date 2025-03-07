@@ -1,1 +1,1 @@
-https://github.com/Pokimoshka/ono-tebe-nado-template
+https://github.com/Pokimoshka/ono-tebe-nado
