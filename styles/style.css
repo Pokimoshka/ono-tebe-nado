@@ -236,6 +236,7 @@
     grid-template-columns: 1fr 2fr 1fr;
     padding: 0 50px;
     margin-top: 180px;
+    height: 180px;
 }
 
 .footer__address {
